@@ -15,14 +15,14 @@ Using the first set of data in the '1slf.txt' file as an example, the following 
 ```json
 {
     "Aeg": "4.02.2021 13:07:58",
-    "Kasutaja täisnimi": "***REMOVED***",
+    "Kasutaja täisnimi": "███████",
     "Mõjutatud kasutaja": "-",
     "Sündmuse kontekst": "Foorum: Foorum",
     "Komponent": "Foorum",
     "Sündmuse nimi": "Kursusemoodulit on vaadatud.",
-    "Kirjeldus": "The user with id ***REMOVED*** viewed the 'forum' activity with course module id '83875'.",
+    "Kirjeldus": "The user with id '███████' viewed the 'forum' activity with course module id '83875'.",
     "Päritolu": "web",
-    "IP-aadress": "***REMOVED***"
+    "IP-aadress": "███████"
 }
 ```
 
@@ -46,10 +46,10 @@ Using the first set of data in the `logs_LTAT.03.001_20210207-0935-AT_01.xlsx` f
 
 ```json
 {
-    "Eesnimi": ***REMOVED***,
-    "Perenimi": ***REMOVED***,
-    "ID-number": "***REMOVED***",
-    "Meiliaadress": "***REMOVED***",
+    "Eesnimi": "███████",
+    "Perenimi": "███████",
+    "ID-number": "███████",
+    "Meiliaadress": "███████",
     "Test:1. nädala test (Punktid)": 0.5,
     "Test:2. nädala test (Punktid)": 0.5,
     "Test:3. nädala test (Punktid)": 0.5,
