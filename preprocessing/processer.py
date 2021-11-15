@@ -1,7 +1,7 @@
 import pandas as pd
 import csv
 
-# id_adder_quick_analyzer.py has currently the following purposes:
+# processer.py has currently the following purposes:
 # 1. It searches for student's id and when it is identifiable, then it will be added at the end of the line. If there's no id, then the value of the id will be and empty string.
 # 2. All lines will be written to testfile_with_ids.csv file, which has the same purpose of testfile.csv - to be able to process lines more quickly than accessing all the xlsx-files separately.
 # 3. There's a small analysis as well. We compare the number of lines where the id was available and the number of lines where it wasn't. Using sets we find out which lines didn't have an id of a student (currently commented out).
