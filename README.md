@@ -35,7 +35,7 @@ Everyone was involved in the preparation and discussion, and contributed their [
 > Identify students who may be struggling based on their early activities.
 
 - [Zhaosi Qu](https://github.com/chaosrun) is assigned to this task.
-- Summary: The model can predict whether a student is struggling in the study based on log data from the first six weeks, scores from the first six weeks of lectures + homework + practice, and scores from the sixth week's test. Through the validation of the test set, the accuracy of the model is above `90%` and the recall rate is above `80%`, up to `100%`.
+- Summary: The model can predict whether a student is struggling in the study based on log data from the first six weeks, scores from the first six weeks of lectures + homework + practice, and scores from the sixth week's test. Through the validation of the test set, the accuracy of the model is above `91%` and the recall rate is above `83%`, up to `100%` (one of the models, performance on test dataset).
 - [Details](./task_1)
 
 ### Task 2
