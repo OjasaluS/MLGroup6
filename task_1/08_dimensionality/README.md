@@ -17,7 +17,7 @@ we abandoned the PCA approach and used RandomForest to help select the main feat
 
 #### SMOTE + RandomForest
 
-![](./images/dim_1.png)
+![](./images/dim_1.jpg)
 
 - Accuracy: `88.98%`
 - Recall: `70.96%`
@@ -31,7 +31,7 @@ we abandoned the PCA approach and used RandomForest to help select the main feat
 
 #### Weight + RandomForest
 
-![](./images/dim_2.png)
+![](./images/dim_2.jpg)
 
 - Accuracy: `90.59%`
 - Recall: `67.75%`
