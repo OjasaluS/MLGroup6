@@ -17,6 +17,8 @@ we abandoned the PCA approach and used RandomForest to help select the main feat
 
 #### SMOTE + RandomForest
 
+![](./images/dim_1.png)
+
 - Accuracy: `88.98%`
 - Recall: `70.96%`
 - ROC-AUC: `0.93`
@@ -28,6 +30,8 @@ we abandoned the PCA approach and used RandomForest to help select the main feat
 - ROC-AUC: `0.84`
 
 #### Weight + RandomForest
+
+![](./images/dim_2.png)
 
 - Accuracy: `90.59%`
 - Recall: `67.75%`
