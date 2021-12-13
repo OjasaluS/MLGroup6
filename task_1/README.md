@@ -92,5 +92,3 @@ The references used in this task are documented in a separate file.
 ---
 
 [Next task](../task_2)
-
-[Go back](../.)
