@@ -2,9 +2,9 @@
 
 ## About the project
 
-- Title: `P06 - Student profiling based on Moodle log data`
-- Project type: `Based on partner project (P14)`
-- Description: `Based on Moodle log file as a dataset of Computer Programming course identify possible struggling students, predict students' final grades, discover common activity patterns and create profiles of typical students.`
+- **Title:** P06 - Student profiling based on Moodle log data
+- **Project type:** Based on partner project (P14)
+- **Description:** Based on Moodle log file as a dataset of Computer Programming course identify possible struggling students, predict students' final grades, discover common activity patterns and create profiles of typical students.
 
 ## About the team
 
