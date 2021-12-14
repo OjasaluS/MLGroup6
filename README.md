@@ -58,7 +58,6 @@ Everyone was involved in the preparation and discussion, and contributed their [
 
 *Discover common activity patterns of the students and create profiles of typical students.*
 
-- [Martin Reinsalu](https://github.com/MartinUT) is assigned to this task, working on part `xxx`.
-- [Kristiina Hakk](https://github.com/kristiina-h) is assigned to this task, working on part `xxx`.
-- Summary: `xxx`
+- [Martin Reinsalu](https://github.com/MartinUT) and [Kristiina Hakk](https://github.com/kristiina-h) are assigned to this task.
+- Summary: Made an analyzing script, which groups the activities by final grades and outputs first ten examples. Also plots top and bottom five activities overall. 
 - [Details](./task_3)
