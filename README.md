@@ -61,3 +61,5 @@ Everyone was involved in the preparation and discussion, and contributed their [
 - [Martin Reinsalu](https://github.com/MartinUT) and [Kristiina Hakk](https://github.com/kristiina-h) are assigned to this task.
 - Summary: Made an analyzing script, which groups the activities by final grades and outputs an example of every grade. Also plots top and bottom five activities overall. 
 - [Details](./task_3)
+
+In addition, [Zhaosi Qu](https://github.com/chaosrun) provided another profiling method based on KMeans, [details here](./task_3/kmeans).
