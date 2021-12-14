@@ -49,7 +49,7 @@ Everyone was involved in the preparation and discussion, and contributed their [
 *Predict the students' final grades in the course.*
 
 - [Siim-Morten Ojasalu](https://github.com/OjasaluS) is assigned to this task.
-- Summary: `xxx`
+- Summary: We can predict the final grades after the 12th week and with good accuracy and low MSE / MAE, as the magnitude of error is quite low.
 - [Details](./task_2)
 
 ---
